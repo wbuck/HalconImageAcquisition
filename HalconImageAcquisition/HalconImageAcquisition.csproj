@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HalconImageController.cs" />
     <Compile Include="ImageAcquisition.cs" />
     <Compile Include="IMainView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
