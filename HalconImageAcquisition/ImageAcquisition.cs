@@ -149,7 +149,7 @@ namespace HalconImageAcquisition
                                       device: device,
                                       port: 0,
                                       lineIn: -1
-                                    );   
+                                    );
         }
 
         private void _mainView_TriggerCameraEvent( object sender, EventArgs e )
